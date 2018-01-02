@@ -1,0 +1,11 @@
+[local]
+localhost
+
+[apacheweb]
+bwjtenzer2
+
+[appserver]
+bwjtenzer3
+
+[controlserver]
+bwjtenzer1
